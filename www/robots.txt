@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /js/
+Disallow: /includes/
+Disallow: /pickups/
+Disallow: /plesk-stat/
+Disallow: /css/
