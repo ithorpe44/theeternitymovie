@@ -71,7 +71,6 @@
 							<li><a href="screenings.php"<?php if($page == 3){ echo(' id="active";'); }?>>Watch the Movie</a></li>
 							<li><a href="press.php"<?php if($page == 4){ echo(' id="active";'); }?>>Press</a></li>
 							<li><a href="downloads.php"<?php if($page == 5){ echo(' id="active";'); }?>>Downloads</a></li>
-							<li><a href="contacts.php"<?php if($page == 6){ echo(' id="active";'); }?>>Contact</a></li>
 							<li style="margin-right: 0px;"><a href="https://squareup.com/store/eternitythemovie" target="_blank">Shop</a></li>
 						</ul>
 					</div>

@@ -18,6 +18,9 @@
 						?>
 						<div class="rotating-item"><a href="https://squareup.com/store/eternitythemovie" target="_blank"><img title="Buy Eternity: The Movie" alt="Buy Eternity: The Movie" src="images/store_banner.jpg"></a></div>
 						<div class="rotating-item"><a href="https://squareup.com/store/eternitythemovie" target="_blank"><img title="Buy Eternity: The Movie" alt="Buy Eternity: The Movie" src="images/store_banner.jpg"></a></div>
+						<div class="rotating-item"><a href="http://www.amazon.com/dp/B01AZ0VVRU/ref=atv_hm_hom_1_c_s9obwan_2_1?_encoding=UTF8" target="_blank"><img src="images/amazon_banner.jpg"></a></div>
+						<div class="rotating-item"><a href="https://itunes.apple.com/us/movie/eternity-the-movie/id1070728634" target="_blank"><img src="images/itunes_banner.jpg"></a></div>
+						<div class="rotating-item"><a href="https://play.google.com/store/movies/details?id=j_uKn98cwtk" target="_blank"><img src="images/googleplay_banner.jpg"></a></div>
 						<?php
 							/*
 								<div class="rotating-item"><a href="http://www.amazon.com/dp/B01AZ0VVRU/ref=atv_hm_hom_1_c_s9obwan_2_1?_encoding=UTF8" target="_blank"><img src="images/amazon_banner.jpg"></a></div>
